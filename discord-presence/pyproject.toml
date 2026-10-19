@@ -20,9 +20,9 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/kyssta-exe/hermes-discord-presence"
+Homepage = "https://github.com/okyssta/hermes-discord-presence"
 Documentation = "https://hermes-agent.nousresearch.com/docs/developer-guide/plugins"
-Issues = "https://github.com/kyssta-exe/hermes-discord-presence/issues"
+Issues = "https://github.com/okyssta/hermes-discord-presence/issues"
 
 [build-system]
 requires = ["setuptools>=68"]

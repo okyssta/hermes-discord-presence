@@ -4,7 +4,7 @@ version: 1.1.0
 manifest_version: 2
 api_version: 1
 license: MIT
-homepage: https://github.com/kyssta-exe/hermes-discord-presence
+homepage: https://github.com/okyssta/hermes-discord-presence
 author: kyssta
 description: >
   Publishes live Hermes agent telemetry as the Discord bot's presence —

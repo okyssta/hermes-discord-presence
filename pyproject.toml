@@ -24,9 +24,9 @@ dependencies = []
 dev = ["pytest>=8,<9"]
 
 [project.urls]
-Homepage = "https://github.com/kyssta-exe/hermes-discord-presence"
+Homepage = "https://github.com/okyssta/hermes-discord-presence"
 Documentation = "https://hermes-agent.nousresearch.com/docs/developer-guide/plugins"
-Issues = "https://github.com/kyssta-exe/hermes-discord-presence/issues"
+Issues = "https://github.com/okyssta/hermes-discord-presence/issues"
 
 # The installable plugin lives in ./discord-presence — a flat directory plugin
 # (plugin.yaml plus sibling modules), which is what `hermes plugins install`

@@ -58,14 +58,14 @@ it the plugin quietly falls back to `playing`).
 ## Install
 
 ```bash
-hermes plugins install kyssta-exe/hermes-discord-presence
+hermes plugins install okyssta/hermes-discord-presence
 hermes plugins enable discord-presence
 ```
 
 Or drop the directory in by hand:
 
 ```bash
-git clone https://github.com/kyssta-exe/hermes-discord-presence
+git clone https://github.com/okyssta/hermes-discord-presence
 cp -r hermes-discord-presence/discord-presence ~/.hermes/plugins/
 hermes plugins enable discord-presence
 ```

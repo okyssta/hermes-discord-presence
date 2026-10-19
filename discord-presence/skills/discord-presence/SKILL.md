@@ -6,7 +6,7 @@ license: MIT
 metadata:
   hermes:
     tags: [discord, gateway, observability, metrics, presence, telemetry]
-    homepage: https://github.com/kyssta-exe/hermes-discord-presence
+    homepage: https://github.com/okyssta/hermes-discord-presence
 ---
 
 # Discord Presence — live agent telemetry
